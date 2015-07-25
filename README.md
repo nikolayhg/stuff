@@ -4,11 +4,16 @@ Goals: organic, fair, vegan, quality, beautiful, easy to maintain.
 
 ## Clothes
 
-T-Shirts:
+Top:
 
-* [HempAge Herren T-Shirt Otto aus Hanf / Bio Baumwolle](http://www.biotextilien-allgaeu.de/HempAge+herren+T-Shirt+Otto+Hanf+Bio+Baumwolle.htm)
-* [HempAge Herren Knopfleistenshirt aus Hanf / Bio Baumwolle](http://www.biotextilien-allgaeu.de/HempAge+Herren+Knopfleistenshirt+Hanf+Bio+Baumwolle,i2.htm)
-* [Brainshirt](http://www.brainshirt.eu/) - business shirts
+* [HempAge Herren T-Shirt Otto aus Hanf / Bio Baumwolle](http://www.biotextilien-allgaeu.de/HempAge+herren+T-Shirt+Otto+Hanf+Bio+Baumwolle.htm) - hemp, organic cotton shirt
+* [HempAge Herren Knopfleistenshirt aus Hanf / Bio Baumwolle](http://www.biotextilien-allgaeu.de/HempAge+Herren+Knopfleistenshirt+Hanf+Bio+Baumwolle,i2.htm) - hemp, organic cotton shirt
+* [Brainshirt](http://www.brainshirt.eu/) - organic business shirts
+
+Bottom:
+
+* [Zip-off Funktionshose Tajo 2](http://www.maier-sports.com/de/produkte/herren/katalog/hosen/zip-funktionshose-tajo-2/) - zipper pants (short/long), all pockets are zippered, elastic, belt no needed, water-repellent, sustainable, fair.
+* looking for vegan business shoes, round at the front.
 
 ## Room
 
