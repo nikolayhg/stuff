@@ -2,11 +2,12 @@
 
 Criteria:
 * organic, healthy and chemical free (as much as possible)
-* fairly produced
 * vegan
 * long lasting / quality
 * modular, repairable, recyclebar
 * simple and beautiful
+* fairly produced
+* open source
 
 ## Clothes
 
