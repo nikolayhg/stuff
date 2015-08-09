@@ -4,8 +4,8 @@ Criteria:
 * organic, healthy and chemical free (as much as possible)
 * fairly produced
 * vegan
-* long lasting
-* repairable, recyclebar
+* long lasting / quality
+* modular, repairable, recyclebar
 * simple and beautiful
 
 ## Clothes
