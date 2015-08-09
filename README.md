@@ -1,6 +1,12 @@
 # Stuff I like and use
 
-Goals: organic, fair, vegan, quality, beautiful, easy to maintain.
+Criteria:
+* organic, healthy and chemical free (as much as possible)
+* fairly produced
+* vegan
+* long lasting
+* repairable, recyclebar
+* simple and beautiful
 
 ## Clothes
 
@@ -26,7 +32,5 @@ Bottom:
 * [Logitech M125](http://support.logitech.com/en/product/mouse-m125) - mobile mouse with retractable USB cable
 * [Dell U2415](http://accessories.ap.dell.com/sna/productdetail.aspx?c=hk&cs=hkdhs1&l=en&s=dhs&sku=391-BBUW&redirect=1) -  monitor, 1920x1200 (height needed for software development), adjustable.
 
-## Others
-
-* You can [ask me in GitHub](https://github.com/nikolaygit/stuff/issues) about other stuff I use.
-* You can [check what stuff I am searching for in the GitHub issues](https://github.com/nikolaygit/stuff/issues).
+## Searching for:
+[See all the stuff I am searching for and help me out](https://github.com/nikolaygit/stuff/labels/searching).
