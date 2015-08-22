@@ -35,7 +35,7 @@ Bottom:
 
 ## Food
 
-* [Instant Pot](http://instantpot.com/) - electric pressure cooker with timer ("press and forget", "schedule").
+* [Instant Pot](http://instantpot.com/) - electric pressure cooker with timer ("press and forget", "schedule"). For rice, potatoes, lentils, etc.
 
 ## Stuff I search:
 [See all the stuff I am searching for and help me out](https://github.com/nikolaygit/stuff/labels/searching).
