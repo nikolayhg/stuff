@@ -36,6 +36,7 @@ Bottom:
 ## Food
 
 * [Instant Pot](http://instantpot.com/) - electric pressure cooker with timer ("press and forget", "schedule"). For rice, potatoes, lentils, etc.
+* [Everycook](http://everycook.org/) (better) - not yet finished, [open source hardware](https://twitter.com/nikolayhg/status/635509922109759489), pressure cooker, high quality.
 
 ## Stuff I search:
 [See all the stuff I am searching for and help me out](https://github.com/nikolaygit/stuff/labels/searching).
