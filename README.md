@@ -43,6 +43,7 @@ Bottom:
 * [Buch7](https://www.buch7.de) - Bücher kaufen (statt Amazon!)
     * Mit 75% unseres Gewinns unterstützen wir soziale, kulturelle oder ökologische Projekte.
     * Öko-Strom, grüne Versicherung, Transparenz
+* [Ecobookstore](https://www.ecobookstore.de) - [Regenwaldschutz](https://www.ecobookstore.de/shop/action/mymagazine/63449/unterstuetzung_regenwaldschutz.html?aUrl=90008524), [CO2 Vermeidung](https://www.ecobookstore.de/shop/action/mymagazine/92562/co2_vermeidung.html?aUrl=90008524).
 * [Onyx Boox M96 E-Reader](https://onyx-boox.com/shop/onyx-boox-m96-universe-97-inch-e-ink-pearl-display-e-book-reader-google-play-ivona-text-speech-bluetooth-4-0-low-energy-powered-android-4-0-4/) - 9.7″ E Ink e-book reader running on Android 4.0.4. Possible to install Google Play apps like ownCloud client to sync ebooks.
 
 ## Bank
