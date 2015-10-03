@@ -44,5 +44,9 @@ Bottom:
     * Mit 75% unseres Gewinns unterstützen wir soziale, kulturelle oder ökologische Projekte.
     * Öko-Strom, grüne Versicherung, Transparenz
 
+## Bank
+
+* [GLS Bank](https://www.gls.de)
+
 ## Stuff I search:
 [See all the stuff I am searching for and help me out](https://github.com/nikolaygit/stuff/labels/searching).
