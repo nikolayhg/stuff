@@ -22,9 +22,11 @@ Bottom:
 
 * [Zip-off Funktionshose Tajo 2](http://www.maier-sports.com/de/produkte/herren/katalog/hosen/zip-funktionshose-tajo-2/) - zipper pants (short/long), all pockets are zippered, elastic, belt no needed, water-repellent, sustainable, fair.
 * looking for vegan business shoes, round at the front.
-   * could not find such.
-   * Current solution:
+   * could not find such. Current solution:
       * [Officetoes from Bär](http://www.baer-schuhe.de/officetoes-1616). [Elias](http://www.baer-schuhe.de/elias-1590) look good too.
+* looking for business elastic pants with zippers.
+  * could not find such. Current solution:
+    * [T52 Hose from René Lezard](https://www.rene-lezard.com/men/clothing/hose/slim-fit/product/Hose-001.62.07.H613.S.2499.999)
 
 ## Room
 
