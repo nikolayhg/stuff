@@ -23,7 +23,7 @@ Bottom:
 * looking for vegan business shoes, round at the front.
    * could not find such.
    * Current solution:
-      * [Officetoes from Bär](http://www.baer-schuhe.de/officetoes-1616)
+      * [Officetoes from Bär](http://www.baer-schuhe.de/officetoes-1616). [Elias](http://www.baer-schuhe.de/elias-1590) look good too.
 
 ## Room
 
