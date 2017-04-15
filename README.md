@@ -1,13 +1,16 @@
 # Stuff I like and use
 
 Criteria:
+* functional - should fulfill the desired funtion
+* easy to use - should be very easy to use
+* simple and beautiful
 * organic, healthy and chemical free (as much as possible)
 * vegan
 * long lasting / quality
 * modular, repairable, recyclebar
-* simple and beautiful
 * fairly produced
 * open source
+* by a company holisticly dedicated to the common good
 
 ## Clothes
 
